@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OZIOstatMAn
 - 👀 I’m interested in Android Devlopment
 - 🌱 I’m currently learning Java language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything related to the aforementioned
 - 📫 How to reach me: oziomakenechukwu7@gmail.com or twitter.com/OZIOstatMAn
 
 <!---
