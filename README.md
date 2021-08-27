@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ozioma
-- 👀 I’m interested in Android Devlopment
+- 👀 I’m interested in Mobile Devlopment
 - 🌱 I’m currently learning Java && Flutter
 - 💞️ I’m looking to collaborate on anything related to the aforementioned
-- 📫 How to reach me: oziomakenechukwu7@gmail.com or twitter.com/OZIOstatMAn
 
 <!---
 OZIOstatMAn/OZIOstatMAn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
